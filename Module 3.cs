@@ -17,7 +17,7 @@ public class Octopus
   
   public void DisplayInfo()
   {
-    Console.WriteLine($"Octopus Hame: {Name}, Age: {Age}, Legs: {Legs}");
+    Console.WriteLine($"Octopus Name: {Name}, Age: {Age}, Legs: {Legs}");
   }
 }
 
@@ -28,5 +28,4 @@ class Program
       //class creation
       Octopus Reginald = new Octopus("Reginald", 7, 8);
       Reginald.DisplayInfo();
-  }
-}
+  }         }
