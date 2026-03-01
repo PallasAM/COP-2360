@@ -1,0 +1,15 @@
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\bin\Debug\net10.0\indivi-project.exe
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\bin\Debug\net10.0\indivi-project.deps.json
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\bin\Debug\net10.0\indivi-project.runtimeconfig.json
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\bin\Debug\net10.0\indivi-project.dll
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\bin\Debug\net10.0\indivi-project.pdb
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.AssemblyInfoInputs.cache
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.AssemblyInfo.cs
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.csproj.CoreCompileInputs.cache
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.sourcelink.json
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.dll
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\refint\indivi-project.dll
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.pdb
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\indivi-project.genruntimeconfig.cache
+c:\Users\Jay\Documents\GitHub\COP-2360\indivi-project\obj\Debug\net10.0\ref\indivi-project.dll
